@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 06 May 2024 15:29:24 at https://isti-html.vercel.app/index-2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://isti-html.vercel.app/index-2.html -O1 "C:\My Web Sites\portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:29:44	Error: 	"Not Found" (404) at link https://isti-html.vercel.app/fonts/fa-duotone-900.woff2 (from https://isti-html.vercel.app/css/font-awesome-pro.css)
+15:29:44	Error: 	"Not Found" (404) at link https://isti-html.vercel.app/fonts/fa-duotone-900.ttf (from https://isti-html.vercel.app/css/font-awesome-pro.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 88 links scanned, 85 files written (14279745 bytes overall) [10452340 bytes received at 497730 bytes/sec], 6108459 bytes transferred using HTTP compression in 29 files, ratio 36%, 44.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
