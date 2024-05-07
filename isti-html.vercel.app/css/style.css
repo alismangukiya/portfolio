@@ -88,8 +88,8 @@ button:focus {
 }
 
 :root {
-  --colorPrimary: #c7d300;
-  --colorSecondary: #37c33e;
+  --colorPrimary: #ff8800;
+  --colorSecondary: #d01313;
   --colorWhite: #ffffff;
   --colorBlack: #0c0c08;
   --colorBodyText: rgba(177, 177, 177, 1);
