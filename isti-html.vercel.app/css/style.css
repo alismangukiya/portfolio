@@ -1164,7 +1164,7 @@ button:focus {
   font-weight: 800;
   padding: 16px 30px;
   color: var(--colorBlack);
-  position: absolute;
+  position: left;
   background: var(--colorPrimary);
   text-transform: uppercase;
   transition: all linear 0.3s;
@@ -1318,7 +1318,8 @@ button:focus {
 }
 
 .tf__main_manu_2 li {
-  margin-bottom: 20px;
+  margin-bottom: 40px;
+  margin-top: 0px;
 }
 
 .tf__main_manu_2 li a {
